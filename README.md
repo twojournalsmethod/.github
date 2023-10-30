@@ -1,2 +1,2 @@
 # .github
-Official website of the Two Journals Method personal productivity methodology
+This organization owns and maintains the Two Journals Method personal productivity methodology.
